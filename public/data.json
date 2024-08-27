@@ -1,0 +1,51 @@
+[
+    
+    {
+        "name": "FLT.AX",
+        "heading": "Parabolic SAR strategy",
+        "desc": "The parabolic SAR is a technical indicator used to determine the price direction of an asset, as well as draw attention to",
+        "percen":57.03,
+        "copiers":399,
+        "triggered":"14,52,474",
+        "outcomes":"8,28,385",
+        "spercentage":57.03,
+        "sratio":0.12,
+        "drawdown":0.07
+    },
+    {
+        "name": "IGO.AX",
+        "heading": "RSI oversold strategy",
+        "desc": "The relative strength index is most commonly used to indicate temporanty overbought or oversolid conditions in the",
+        "percen":55.62,
+        "copiers":287,
+        "triggered":"836",
+        "outcomes":"465",
+        "spercentage":55.62,
+        "sratio":0.10,
+        "drawdown":0.01
+    },
+    {
+        "name": "PNI.AX",
+        "heading": "Kaufmann and SMA Strategy",
+        "desc": "The Kaufman Indicator is a way to identify and measure the trend. It implies that trading in the direction of the trend is a",
+        "percen":62.46,
+        "copiers":129,
+        "triggered":"1300",
+        "outcomes":"812",
+        "spercentage":62.46,
+        "sratio":0.06,
+        "drawdown":0.01
+    },
+    {
+        "name": "WES.AX",
+        "heading": "sma crossover strategy",
+        "desc": "SMA crossovers are one of the main moving average strategies, when the price crosses above or bel below elow a moving",
+        "percen":38.95,
+        "copiers":177,
+        "triggered":"17,53,810",
+        "outcomes":"6,83,180",
+        "spercentage":38.95,
+        "sratio":0.15,
+        "drawdown":0.06
+    }
+]

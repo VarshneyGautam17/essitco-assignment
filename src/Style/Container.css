@@ -1,0 +1,84 @@
+.container1{
+    padding: 1rem;
+    color: white;
+  }
+
+.subcontainer1{
+    border: 2px solid white;
+    border-radius: 1rem;
+    padding:1rem;
+  }
+  .datacon{
+    padding: 1rem;
+    border-radius: 0.5rem ;
+    background-color: rgb(28, 28, 28);
+  }
+  .subdatacon1{
+        border-radius: 1rem;
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+  }
+  
+  .subdatacon2{
+        border-radius: 1rem;
+        display: flex;
+        justify-content: space-between;
+  }
+  
+  .subdatacon3{
+        border-radius: 1rem;
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(31, 31, 31);
+
+  }
+  
+  .subdatacon4{
+        border-radius: 1rem;
+        display: flex;
+        justify-content: space-between;
+  }
+  .subdatacon5{
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+
+}
+  
+
+  button {
+    cursor: pointer;
+    outline: none;
+      &.outline {
+          position: relative;
+          font-size: 13px;
+          border-style: solid;
+          border-width: 2px;
+          border-radius: 22px;
+          padding: 0px 20px;
+          transition: all 0.2s linear;
+         
+      }
+      &.purple-white {
+          font-weight: 700;
+          color: #c730fe;
+          border-color: #c730fe;
+          background: transparent;
+      }
+      &.purple-white:hover {
+          color: white;
+          background: #c730fe;
+          border-color: #c730fe;
+      }
+  }
+  .buttoncon a{
+    color: rgb(247, 168, 71);
+  }
+  .buttoncon {
+    padding: 1rem;
+    display: flex;
+    padding-bottom: 0;
+    justify-content: space-between;
+  }
